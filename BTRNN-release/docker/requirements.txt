@@ -1,0 +1,10 @@
+h5py
+imageio
+numpy
+opencv-python==3.3.1.11
+scikit-learn
+scipy
+sklearn
+tensorflow-gpu==1.4.1
+pycocotools
+keras==2.1.2

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="23d817c6-4133-483d-bfa9-637e1cb78609" name="9号机" url="http://121.49.110.52">
+        <fileTransfer host="121.49.110.52" port="10009" rootFolder="/home/chendi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="10009" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="65626c06-3176-4857-82be-c67d842230c9" name="12号机" url="http://192.168.1.201">
+        <fileTransfer host="192.168.1.201" port="22" rootFolder="/home/chendi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
